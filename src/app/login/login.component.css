@@ -1,0 +1,111 @@
+.logo{
+top:0px;
+left: 120px;
+width: 123px;
+height: 123px;
+background: transparent  0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;}
+
+.toolbar{
+margin-top:20px;
+text-align: end;
+justify-content: flex-end;
+
+}
+.span-class{
+margin:1rem;
+}
+.button{
+top: 63px;
+left: 1480px;
+width: 118px;
+height: 45px;
+box-shadow: 0px 0px 20px #00000033;
+border: 2px solid #663399;
+border-radius: 24px;
+opacity: 1;
+}
+.button-started{
+top: 63px;
+left: 1622px;
+width: 166px;
+height: 45px;
+background: transparent linear-gradient(90deg, #9F62C9 0%, #663399 100%) 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 20px #00000033;
+border-radius: 24px;
+opacity: 1;
+}
+.line{
+top: 170px;
+left: 372px;
+width: 236px;
+height: 8px;
+background: #000000 0% 0% no-repeat padding-box;
+border-radius: 13px;
+opacity: 0.7;
+position: absolute;
+}
+.acc-dots-calc{
+top: 838px;
+left: 1000px;
+width: 300px;
+height: 50px;
+background: transparent  0% 0% no-repeat padding-box;
+opacity: 0.5;
+position: absolute;
+}
+
+.circle{
+top: -227.9068603515625px;
+left: 852px;
+width: 1183px;
+height: 1192px;
+transform: matrix(0.12, -0.99, 0.99, 0.12, 0, 0);
+background: transparent url('../../assets/circle.svg')  0% 0% no-repeat padding-box;
+opacity: 0.5;    
+}
+
+.blob{ 
+top: 200px;
+left: -179px;
+width: 571px;
+height: 572px;
+background: transparent url('../../assets/blob-small.svg') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.text{
+top: 70px;
+left: 370px;
+width: 407px;
+height: 98px;
+position: absolute;
+background: transparent  0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.hand-shake{
+top: 220px;
+left: 250px;
+width: 500px;
+height: 300px;
+opacity: 1;
+position: absolute;
+}
+.calculator{
+top: 180px;
+left: 610px;
+width: 750px;
+height: 680px;
+background: transparent url('../../assets/Group6.svg') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.acc-dots{
+top: 500px;
+left: 462px;
+width: 250px;
+height: 50px;
+opacity: 0.5;
+position: absolute;
+}
